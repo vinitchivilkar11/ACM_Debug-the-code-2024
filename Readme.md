@@ -1,4 +1,4 @@
-<h1 align="center">ACM-Debug-the-Code-2023</h1>
+<h1 align="center">ACM-Debug-the-Code-2024</h1>
 
 ![debug-1024x646](https://github.com/karan-panda/ACM-Debug-the-Code-2023/assets/108183567/fcb5a0db-f8da-4e5f-b097-b93dcab85dff)
 
